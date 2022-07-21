@@ -7,7 +7,7 @@ I'm  Neethu Gopalakrishna Data Science graduate with Cybersecurity expierence lo
 - 👯 I’m looking to collaborate on any projects using Data Science and Cybersecurity.
 - 🤔 I’m looking for help with find Jobs.
 - 📫 neethu.g0708@gmail.com
-- 📱 +1-(250)-899-6357
+
 
 **Interests**
 - 👩🏻‍🍳 Cook when hungry
