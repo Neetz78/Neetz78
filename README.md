@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm  Neethu Gopalakrishna, Data Science graduate with Cybersecurity expierence looking for oppurtunities in where I can utilize both my skill sets.
+I'm  Neethu Gopalakrishna, Machine learning aspirant with 3+ years of Cybersecurity expierence looking for oppurtunities where I can utilize both skills.
 
 - 🔭 I’m currently working on my personal project, virtual data analytics internship Quantium on forage.
 - 🌱 I’m currently working on CNN, Google cloud platform and Google Data Analytics certifications.
